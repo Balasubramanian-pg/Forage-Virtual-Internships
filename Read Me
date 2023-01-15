@@ -13,8 +13,10 @@ There are a few things you can check to fix this error:
 Example:
 
 try:
+    ``` python
     element = soup.find_all('tag_name')
 except AttributeError as e:
     print(e)
+    ```
 
 By following these steps you should be able to fix the "NoneType" object has no attribute "find_all" error and continue with your web scraping.
