@@ -1,0 +1,76 @@
+# Excel Mastery Project
+
+Welcome to the Excel Mastery Project! This project will guide you through various tasks to enhance your proficiency with Excel. By completing these tasks, you'll become more adept at using keyboard shortcuts, utilizing conditional formatting, working with VBA macros, visualizing data, and crafting compelling data-driven stories.
+
+## Task 1: Excel Keyboard Shortcuts
+
+To become an Excel expert, mastering keyboard shortcuts is essential. In this task, you will:
+
+1. Study the list of common Excel keyboard shortcuts and watch tutorial videos.
+2. Practice the shortcuts by opening Excel spreadsheets and experimenting with combinations.
+3. Solidify your learning by taking the provided quiz.
+
+Estimated time: 45-60 minutes
+
+## Task 2: Conditional Formatting Exploration
+
+In this task, you'll explore data characteristics using conditional formatting tools:
+
+1. Watch introductory videos to understand Excel's conditional formatting tools.
+2. Analyze the provided dataset and identify trends.
+3. Apply conditional formatting to:
+
+   - Highlight formula errors in purple with white text.
+   - Indicate missing values in yellow.
+   - Identify unsold accounts for Product 2 using orange.
+   - Recognize accounts with a 5-year sales CAGR of at least 100% in green and negative CAGR in red.
+   - Highlight top 10% unit sales for 2021 in blue.
+
+4. Capture a screenshot of the formatted spreadsheet and submit as a PDF.
+
+Estimated time: 45-60 minutes
+
+## Task 3: VBA Macros Mastery
+
+Delve into VBA macros with the following objectives:
+
+1. Learn macro basics from tutorial videos.
+2. Create two sorting macros:
+
+   - Macro 1: Sort the spreadsheet by 5 YR CAGR in descending order.
+   - Macro 2: Sort the spreadsheet by 2021 unit sales in descending order.
+
+3. Associate buttons with macros for quick analysis.
+4. Capture screenshots of your spreadsheet with buttons and VBA code.
+
+Estimated time: 60-90 minutes
+
+## Task 4: Data Visualization in Excel
+
+Effectively communicate insights through data visualization:
+
+1. Study the provided example answer for guidance.
+2. Reflect on your work from Task 2 and Task 3.
+3. Utilize your analysis to create clear, concise, and compelling visualizations.
+4. Consider using Excel dashboards to enhance your presentation.
+
+Estimated time: Depends on approach
+
+## Task 5: Data-Driven Storytelling
+
+Craft a concise PowerPoint presentation to convey your analysis and insights:
+
+1. Learn about data-driven storytelling using provided resources.
+2. Review your analysis and dashboard from Task 4.
+3. Create a presentation with 3-5 slides, covering:
+
+   - Attention-grabbing title.
+   - Compelling visual.
+   - Key points from your analysis.
+   - Recommendations based on insights.
+
+4. Incorporate data and examples to make your presentation compelling.
+
+Estimated time: 45-60 minutes
+
+Remember, this project aims to equip you with advanced Excel skills and effective presentation techniques. Take your time, engage with the resources, and apply your learning. Best of luck on your Excel journey!
