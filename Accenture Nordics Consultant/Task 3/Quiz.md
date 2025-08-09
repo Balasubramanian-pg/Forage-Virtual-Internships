@@ -29,3 +29,7 @@
 ## Q8
 
 <img width="1212" height="845" alt="image" src="https://github.com/user-attachments/assets/84fe76a0-72f0-41ac-924b-e05f6f5b0850" />
+
+## Q9
+
+<img width="1207" height="821" alt="image" src="https://github.com/user-attachments/assets/3880567d-7922-4165-ac02-efe449fbe0ef" />
