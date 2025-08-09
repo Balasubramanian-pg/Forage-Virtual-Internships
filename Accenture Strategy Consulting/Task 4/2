@@ -1,0 +1,44 @@
+Here's the corrected matching activity with the answer key properly formatted:
+
+### Team Roles Matching Activity
+
+**Instructions:** Match each project role (left) with its primary responsibility (right) for Everqlo's BNPL implementation.
+
+| Role                  | Primary Responsibility                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------|
+| 1. Team Lead          | A. Develops project timelines and coordinates between Accenture and Everqlo            |
+| 2. Business Analyst   | B. Documents technical requirements for BNPL integration with existing systems         |
+| 3. User Researcher    | C. Interviews customers to understand payment preferences and pain points              |
+| 4. UX Designer        | D. Creates wireframes and user flows for the BNPL checkout process                     |
+| 5. Front-end Developer| E. Implements the BNPL payment button and checkout page redesign                       |
+| 6. Back-end Developer | F. Connects Everqlo's website with BNPL provider APIs                                  |
+| 7. QA Engineer        | G. Tests the BNPL integration to ensure error-free transactions                        |
+
+### Answer Key:
+
+1. Team Lead → **A**  
+   *Owns overall project delivery, client communication, and timeline management*
+
+2. Business Analyst → **B**  
+   *Translates business needs into detailed technical/process requirements*
+
+3. User Researcher → **C**  
+   *Conducts customer research to inform BNPL feature design*
+
+4. UX Designer → **D**  
+   *Designs the user interface and experience for BNPL integration*
+
+5. Front-end Developer → **E**  
+   *Builds the visible BNPL components customers interact with*
+
+6. Back-end Developer → **F**  
+   *Handles server-side integration with BNPL providers*
+
+7. QA Engineer → **G**  
+   *Ensures the solution works correctly before launch*
+
+### Key Takeaways:
+- This mix of roles ensures both **technical implementation** (developers, QA) and **user-centered design** (UX, research)
+- The Team Lead and Business Analyst bridge **business goals** with **technical execution**
+- All roles collaborate to deliver a seamless BNPL experience for Everqlo's customers
+2
