@@ -1,17 +1,59 @@
-Here is your task 
-Visit here [https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576]
+### **Part 1: Data Analysis in Excel**  
 
-Part 1
+#### **Step 1: Download & Prepare the Dataset**  
+- Open the provided **Excel file** containing Everqlo’s order data.  
+- Ensure data cleanliness (check for missing values, duplicates).  
 
-    Download the Excel file provided in additional materials. The dataset contains order data from Everqlo’s e-commerce system. 
-    Create one or more pivot tables for each question posed by the client
-    To create age groups, use the following grouping settings: min.value = 18, max value = 50, interval size = 5
+#### **Step 2: Create Age Groups**  
+1. **Add a new column** titled **"Age Group"**.  
+2. **Use grouping settings**:  
+   - **Minimum value**: 18  
+   - **Maximum value**: 50  
+   - **Interval size**: 5  
+   - Resulting groups: **18-22, 23-27, 28-32, 33-37, 38-42, 43-47, 48-50**  
 
+#### **Step 3: Build Pivot Tables for Each Question**  
 
-Part 2
+**1. Age Group Adoption of BNPL**  
+- **Rows**: Age Group  
+- **Values**: Count of BNPL transactions (filter for BNPL payment method)  
+- **Output**: Shows which age group uses BNPL the most.  
 
-    Using the data and pivot tables you have created in Part 1 and a PowerPoint slide template provided, create a bar chart that shows the share of BNPL transactions as a percentage of total transactions for each age group
-    Your slide should have the following:
-        A key observation/message, that can be understood without looking at the chart or comments
-        A bar chart showing a bar per each age group (same groups as in Part 1) with a percentage of BNPL transactions for that age group, not total for every customer
-        1-2 additional comments that support key observations or describe data in more detail.
+**2. BNPL’s Share of Total Transactions**  
+- **Rows**: Payment Method  
+- **Values**: Count of transactions (or sum of order value)  
+- **Calculation**: Add a calculated field to show BNPL as % of total transactions.  
+
+**3. Average Age of BNPL Users**  
+- Filter for BNPL transactions only.  
+- **Values**: Average of Age  
+
+---
+
+### **Part 2: PowerPoint Slide Creation**  
+
+#### **Slide Structure**  
+**Title**: *"BNPL Adoption Trends by Age Group"*  
+
+**Key Observation**:  
+*"Customers aged **23-27** use BNPL the most, accounting for **XX%** of transactions in their age group."*  
+
+**Bar Chart Requirements**:  
+- **X-axis**: Age Groups (18-22, 23-27, ..., 48-50)  
+- **Y-axis**: % of BNPL transactions (**per age group**, not overall)  
+- **Chart Type**: Clustered Bar Chart  
+
+**Supporting Comments**:  
+1. *"BNPL is **most popular with younger shoppers**, with adoption decreasing after age 30."*  
+2. *"The **23-27 age group** has **2X higher BNPL usage** than the 38-42 group."*  
+
+#### **Example Visualization**  
+(Insert a **bar chart** here with age groups on the left and % BNPL usage on the bottom.)  
+
+---
+
+### **Final Checks**  
+✔ **Pivot Tables**: Correctly grouped age ranges, filtered BNPL transactions.  
+✔ **Chart**: Clearly labeled, percentage-based (not raw counts).  
+✔ **Slide**: One clear takeaway, minimal text, visually clean.  
+
