@@ -1,6 +1,4 @@
-Here's the properly formatted matching activity for the BNPL implementation project roles:
-
-### **Team Role Matching Activity**
+# **Team Role Matching Activity**
 
 **Instructions:** Match each role name to its correct description by dragging the role into the box next to its definition.
 
