@@ -1,6 +1,3 @@
-Here's a professionally structured README file for your task:
-
----
 # **Consulting Task: BNPL Recommendation for Everqlo**
 
 ## **Task Overview**
