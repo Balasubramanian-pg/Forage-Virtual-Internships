@@ -21,3 +21,11 @@
 ## Q6
 
 <img width="1205" height="839" alt="image" src="https://github.com/user-attachments/assets/8158828a-6e72-4264-98cd-bad2a7adf6a1" />
+
+## Q7
+
+<img width="1205" height="837" alt="image" src="https://github.com/user-attachments/assets/08e05d91-8738-4245-9be9-fbf7c2302c23" />
+
+## Q8
+
+<img width="1212" height="845" alt="image" src="https://github.com/user-attachments/assets/84fe76a0-72f0-41ac-924b-e05f6f5b0850" />
