@@ -59,6 +59,7 @@ By breaking down profitability in this way, we can see exactly where Everqlo's p
 ***
 
 [Introduction to SCQ and Issue Trees](https://www.youtube.com/watch?v=b9MIQaO06P4) is a video that explains how to use the Situation-Complication-Question framework and profitability trees for business analysis.
-http://googleusercontent.com/youtube_content/0
+
+Here is an example of the framework
 
 <img width="364" height="207" alt="Simple Profitability Framework" src="https://github.com/user-attachments/assets/951790f8-e434-4180-83af-e70935a6fd93" />
