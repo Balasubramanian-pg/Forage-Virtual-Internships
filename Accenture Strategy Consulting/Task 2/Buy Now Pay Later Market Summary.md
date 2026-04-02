@@ -4,7 +4,6 @@
 #### **1. Core Insight (Top of Pyramid)**  
 The global BNPL market will grow at **27% CAGR** (2025-2033), reaching **$80.15B by 2033**, driven by eCommerce expansion and consumer demand for flexible payments.  
 
----
 
 #### **2. Market Drivers & Segmentation (Middle Layer)**  
 **A. Growth Catalysts**  
@@ -25,7 +24,6 @@ The global BNPL market will grow at **27% CAGR** (2025-2033), reaching **$80.15B
    - Retail (electronics, fashion)  
    - Healthcare (fastest CAGR due to high treatment costs)  
 
----
 
 #### **3. Regional Landscape (Supporting Data)**  
 - **North America (29.3% share)**:  
@@ -39,7 +37,6 @@ The global BNPL market will grow at **27% CAGR** (2025-2033), reaching **$80.15B
 - Asia-Pacific: **32%** (2025-2033)  
 - Latin America: **28%** (Mexico as hotspot)  
 
----
 
 #### **4. Competitive Intelligence**  
 **Top Players**: Affirm, Klarna, Afterpay, PayPal.  
@@ -52,7 +49,6 @@ The global BNPL market will grow at **27% CAGR** (2025-2033), reaching **$80.15B
 - Affirm: **Transparent pricing** (no hidden fees).  
 - Klarna: **Global app ecosystem** (100M+ users).  
 
----
 
 #### **5. Risks & Mitigations**  
 **A. Consumer Debt**:  
@@ -63,7 +59,6 @@ The global BNPL market will grow at **27% CAGR** (2025-2033), reaching **$80.15B
 - FCA (UK), CFPB (U.S.) mandating clearer terms.  
 - **Solution**: Partner with **compliant providers** (e.g., Affirm reports to bureaus).  
 
----
 
 #### **6. Strategic Recommendations for Everqlo**  
 1. **Prioritize Online BNPL**: Align with 66.5% market share via PayPal/Klarna integrations.  
@@ -78,11 +73,9 @@ The global BNPL market will grow at **27% CAGR** (2025-2033), reaching **$80.15B
 - Target: **20% increase in AOV** (industry benchmark: 60%).  
 - KPI: Delinquency rates kept **below 5%**.  
 
----
 
 #### **7. Attachments**  
 - [Grand View Full Report](https://www.grandviewresearch.com)  
 - [BNPL Fee Comparison Tool](https://www.emarketer.com)  
 
----  
 *This structure adheres to the Minto Principle by starting with the key takeaway, supporting it with layered evidence, and closing with actionable steps.* Let me know if you'd like to refine the implementation roadmap.
