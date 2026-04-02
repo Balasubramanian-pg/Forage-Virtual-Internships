@@ -28,7 +28,6 @@
 - Filter for BNPL transactions only.  
 - **Values**: Average of Age  
 
----
 
 ### **Part 2: PowerPoint Slide Creation**  
 
@@ -50,10 +49,8 @@
 #### **Example Visualization**  
 (Insert a **bar chart** here with age groups on the left and % BNPL usage on the bottom.)  
 
----
 
 ### **Final Checks**  
 ✔ **Pivot Tables**: Correctly grouped age ranges, filtered BNPL transactions.  
 ✔ **Chart**: Clearly labeled, percentage-based (not raw counts).  
 ✔ **Slide**: One clear takeaway, minimal text, visually clean.  
-
