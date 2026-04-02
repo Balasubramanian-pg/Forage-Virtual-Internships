@@ -3,7 +3,6 @@
 #### **Objective**  
 As part of Accenture’s consulting team, you will analyze Everqlo’s **pilot BNPL implementation** to assess its early impact on customer behavior. Your goal is to extract actionable insights from transaction data and present them in a clear, structured format for leadership.  
 
----
 
 ### **Background**  
 Everqlo, a retail e-commerce company, has introduced **BNPL** as a new payment option for a select group of customers. Since the pilot is still in its early stages, leadership wants to understand:  
@@ -13,7 +12,6 @@ Everqlo, a retail e-commerce company, has introduced **BNPL** as a new payment o
 
 The company has provided **order data**, which includes customer demographics (age, gender, location) and transaction details (payment method, order value).  
 
----
 
 ### **Key Analysis Questions**  
 Your analysis should answer the following:  
@@ -35,7 +33,6 @@ Your analysis should answer the following:
    - Is there a higher cart abandonment rate for BNPL users?  
    - Are BNPL orders more likely to be returned?  
 
----
 
 ### **Expected Deliverable**  
 A **single PowerPoint slide** summarizing key insights, structured as:  
@@ -50,14 +47,12 @@ A **single PowerPoint slide** summarizing key insights, structured as:
 4. **Insight 3**: "BNPL users have an average age of **Z**, younger than non-BNPL users (**Z+5**)."  
 5. **Recommendation**: "Consider targeted BNPL marketing for younger demographics and monitor repayment behavior."  
 
----
 
 ### **Data Points to Consider**  
 - **Age, Gender, Location** → Segmentation analysis  
 - **Order Value, Payment Method** → Revenue impact  
 - **Return Rates, Cart Abandonment** → Potential risks  
 
----
 
 ### **Next Steps**  
 1. **Clean & analyze** the dataset (check for missing values, outliers).  
@@ -67,4 +62,3 @@ A **single PowerPoint slide** summarizing key insights, structured as:
    - Average age comparison (BNPL vs. non-BNPL)  
 3. **Visualize trends** (bar charts, pie charts, or tables).  
 4. **Summarize insights** concisely for leadership.  
-
