@@ -22,7 +22,6 @@
 8. **Agree next steps for further app changes**  
    - *Start Week 6* *(final alignment)*  
 
----
 
 ### **Visual Timeline Overview**  
 | **Week**  | **1**          | **2**          | **3**          | **4**          | **5**          | **6**          |  
