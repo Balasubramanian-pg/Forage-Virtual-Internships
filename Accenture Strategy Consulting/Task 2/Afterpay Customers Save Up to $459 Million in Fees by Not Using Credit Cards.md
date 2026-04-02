@@ -4,7 +4,6 @@
 #### **1. Core Finding (Top of Pyramid)**  
 Afterpay generated **$4.5B in net benefits for merchants** in 2021, while helping consumers avoid **$459M in credit card fees** – creating a rare "win-win" in retail finance.  
 
----
 
 #### **2. Merchant Benefits (Middle Layer)**  
 **A. Revenue Growth ($8.2B Incremental Sales)**  
@@ -19,14 +18,12 @@ Afterpay generated **$4.5B in net benefits for merchants** in 2021, while helpin
 **C. Job Creation**  
 Supported **70,000 U.S. jobs** through increased retail activity.  
 
----
 
 #### **3. Consumer Advantages**  
 - **$6 saved per order** vs. credit cards (interest/fee avoidance).  
 - **2x higher on-time payments** than credit card users.  
 - **Interest-free installments** with no revolving debt.  
 
----
 
 #### **4. Strategic Implications for Everqlo**  
 1. **Partner Selection**: Afterpay’s **100K-retailer network** offers proven scalability.  
@@ -40,13 +37,11 @@ Supported **70,000 U.S. jobs** through increased retail activity.
 - **13% new customer growth** (industry benchmark).  
 - **5-15% AOV lift** from installment psychology.  
 
----
 
 #### **5. Attachments**  
 - [Full Accenture Report](https://www.accenture.com)  
 - [Afterpay Merchant Case Studies](https://www.afterpay.com)  
 
----  
 *This structure delivers the key insight first, supports it with layered evidence, and closes with actionable steps.* Would you like to benchmark Afterpay against Klarna/Affirm for Everqlo’s specific vertical?  
 
 **Key Differentiator**: Afterpay’s **zero-interest model** contrasts with Affirm’s mixed offerings (some interest-bearing loans).
