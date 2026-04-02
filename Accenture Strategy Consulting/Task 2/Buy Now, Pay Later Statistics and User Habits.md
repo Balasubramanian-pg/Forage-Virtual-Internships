@@ -4,7 +4,6 @@
 #### **1. Core Finding (Top of Pyramid)**  
 **BNPL has become mainstream**, with 60% of consumers having used these services and 46% actively making payments. However, financial risks require careful implementation.  
 
----
 
 #### **2. Key Insights (Middle Layer)**  
 **A. Pandemic Accelerated Adoption**  
@@ -27,7 +26,6 @@
   - Low/no interest (36%)  
 - 38% believe BNPL could **replace their credit cards**.  
 
----
 
 #### **3. Strategic Recommendations (Base Layer)**  
 **For Everqlo’s BNPL Implementation:**  
@@ -38,7 +36,6 @@
    - Provide **clear repayment terms** (e.g., “4 interest-free payments” with due dates).  
 4. **Customer Education**: Emphasize BNPL as a **budgeting tool**, not credit.  
 
----
 
 #### **4. Conclusion**  
 BNPL offers **significant revenue potential** (higher conversion, AOV) but requires safeguards against overspending. **Recommended actions**:  
@@ -49,5 +46,4 @@ BNPL offers **significant revenue potential** (higher conversion, AOV) but requi
 - [Full C+R Research Report](https://www.crresearch.com)  
 - [BNPL Risk Management Strategies](https://www.emarketer.com)  
 
----  
 *This structure adheres to Minto by leading with the core insight, supporting it with layered evidence, and closing with actionable steps.* Let me know if you’d like to refine the recommendations for Everqlo’s specific audience.
