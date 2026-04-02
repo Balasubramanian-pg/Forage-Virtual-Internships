@@ -6,7 +6,6 @@ The Minto Pyramid Principle is a structured communication framework that present
 2. **Grouping supporting arguments hierarchically**
 3. **Ensuring each level logically supports the one above**
 
----
 
 #### **Key Components (Middle Layer)**
 1. **Top-Down Structure**
@@ -25,7 +24,6 @@ The Minto Pyramid Principle is a structured communication framework that present
      - Distinct (no overlap)
      - Comprehensive (cover all bases)
 
----
 
 #### **Why Consultants Use It (Supporting Evidence)**
 - **Executive Preference:** Saves time by front-loading conclusions
@@ -33,7 +31,6 @@ The Minto Pyramid Principle is a structured communication framework that present
 - **Clarity:** Forces rigorous thought organization
 - **Industry Standard:** Used by McKinsey, BCG, Bain, etc.
 
----
 
 #### **Practical Applications (Base Layer)**
 1. **Email Writing:**
@@ -50,14 +47,12 @@ The Minto Pyramid Principle is a structured communication framework that present
    - 1-page cover memo with conclusions
    - Appendix with detailed research
 
----
 
 #### **When NOT to Use It**
 - **Pure data-sharing sessions**
 - **Exploratory brainstorming**
 - **Leave-behind documents** (requires more narrative flow)
 
----
 
 #### **Implementation Exercise**
 1. Take any past business document
