@@ -4,7 +4,6 @@
 #### **1. Core Recommendation (Top of Pyramid)**  
 **Everqlo should implement BNPL** to capitalize on growing consumer demand, particularly among younger demographics, while mitigating risks through careful provider selection and transparent customer terms.  
 
----
 
 #### **2. Supporting Arguments (Middle Layer)**  
 **A. Market Growth & Consumer Adoption**  
@@ -21,7 +20,6 @@
 - **Regulatory scrutiny**: CFPB may impose credit-like disclosures; partner with compliant providers (e.g., Affirm reports to credit bureaus).  
 - **Debt concerns**: 1 in 3 UK users report financial strain (Barclays); implement spending limits and clear repayment terms.  
 
----
 
 #### **3. Implementation Plan (Base Layer)**  
 1. **Provider Selection**: Prioritize partners with:  
@@ -30,14 +28,12 @@
 2. **Pilot Launch**: Test BNPL during peak shopping periods (e.g., holidays) to measure uplift.  
 3. **Customer Education**: Highlight BNPL as a budgeting tool (e.g., “Split $100 into 4 interest-free payments”).  
 
----
 
 #### **4. Conclusion**  
 BNPL aligns with Everqlo’s digital-savvy audience and can boost key metrics (conversion, AOV). **Recommended next steps**:  
 - Shortlist 2-3 BNPL providers for evaluation.  
 - Develop a 3-month pilot with performance KPIs (e.g., uptake rate, repayment delinquency).  
 
---- 
 
 **Attachments**:  
 - [BNPL Market Forecasts (Grand View Research)](https://www.grandviewresearch.com)  
@@ -45,5 +41,4 @@ BNPL aligns with Everqlo’s digital-savvy audience and can boost key metrics (c
 
 Let me know if you’d like to refine the provider selection criteria or pilot design further.  
 
----  
 *This structure adheres to the Minto Pyramid by front-loading the recommendation, grouping supporting evidence logically, and closing with actionable steps.* Would you like to adapt this into an email format for John Morgan?
