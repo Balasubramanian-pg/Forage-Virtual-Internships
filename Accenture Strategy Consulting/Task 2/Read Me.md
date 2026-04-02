@@ -6,7 +6,6 @@ In this task, you will develop essential consulting skills by:
 - Evaluating the **financial and operational implications** of integrating a Buy Now, Pay Later (BNPL) solution, including potential benefits (e.g., increased conversion rates, higher average order value) and risks (e.g., processing fees, regulatory considerations).  
 - Formulating a **data-driven recommendation** to guide Everqlo’s strategic decision-making.  
 
----  
 
 #### **Key Deliverable**  
 You are required to draft a **professional email** to Everqlo’s **Director of E-Commerce**, providing a well-supported recommendation on whether the company should explore BNPL as a payment option.  
@@ -17,7 +16,6 @@ Your email should address the following:
 3. **Business Impact** – Potential effects on sales performance, customer experience, and operational logistics.  
 4. **Recommendation** – A clear, justified position (proceed or decline) based on research findings.  
 
----  
 
 ### **Background Information**  
 
@@ -44,7 +42,6 @@ Buy Now, Pay Later (BNPL) is a short-term financing solution that allows custome
 3. **Costs & Risks** – What are the processing fees, and are there regulatory or credit risks?  
 4. **Implementation Feasibility** – How easily could BNPL be integrated with Everqlo’s existing platform?  
 
----  
 
 ### **Next Steps**  
 1. **Research** – Analyze BNPL market trends, competitor strategies, and consumer behavior.  
