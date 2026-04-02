@@ -4,7 +4,6 @@
 #### **1. Core Recommendation (Top of Pyramid)**  
 **Retailers should adopt BNPL** to capitalize on growing consumer demand and measurable business benefits, while implementing safeguards to mitigate financial risks.  
 
----
 
 #### **2. Market Context & Growth Drivers (Middle Layer)**  
 **A. Pandemic Acceleration**  
@@ -21,7 +20,6 @@
 - Dominated by **PayPal Credit (with 57% adoption)**, Afterpay, Affirm, and Klarna.  
 - **Seamless integrations** with Shopify, BigCommerce, and Salesforce reduce implementation barriers.  
 
----
 
 #### **3. Business Benefits (Supporting Evidence)**  
 **A. Revenue Growth**  
@@ -36,7 +34,6 @@
 - **Risk-free for retailers**: BNPL providers absorb default risks.  
 - **Frictionless checkout**: Faster than credit card approval.  
 
----
 
 #### **4. Risks & Mitigations (Base Layer)**  
 **A. Consumer Risks**  
@@ -52,7 +49,6 @@
 2. Implement **spending limits** to curb buyer’s remorse.  
 3. Highlight BNPL as a **budgeting tool** (e.g., "Split $100 into 4 interest-free payments").  
 
----
 
 #### **5. Future Outlook & Recommendation**  
 - BNPL’s share of eCommerce payments grew from **3% (2018) to 8% (2019)** (Worldpay).  
@@ -67,5 +63,4 @@
 - [BORN Group Full Report](https://www.borngroup.com)  
 - [BNPL Fee Comparison Toolkit](https://www.emarketer.com)  
 
----  
 *This structure adheres to the Minto Principle by leading with the recommendation, supporting it with layered evidence, and closing with specific actions.* Let me know if you'd like to refine the provider selection or risk-mitigation strategies further.
