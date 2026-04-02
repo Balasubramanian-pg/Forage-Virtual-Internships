@@ -2,7 +2,6 @@
 
 **Instructions:** Match each role name to its correct description by dragging the role into the box next to its definition.
 
----
 
 #### **Roles:**
 1. Team Lead
@@ -25,7 +24,6 @@
 | Connects Everqlo's systems to BNPL provider APIs | Back-end Developer |
 | Tests all BNPL functionality before launch | QA Engineer |
 
----
 
 ### **Key Explanations:**
 <img width="1187" height="625" alt="image" src="https://github.com/user-attachments/assets/1a64c573-3d12-419e-89b6-3ba37fc9c4c9" />
@@ -68,9 +66,7 @@
    - Checks edge cases  
    - Approves launch readiness
 
----
 
 This drag-and-drop format tests understanding of how each role contributes to implementing BNPL while maintaining clear role boundaries. The activity reinforces that successful tech projects require both technical specialists (developers, QA) and user-focused roles (UX, research), all coordinated by leadership (Team Lead, Business Analyst). 
-
 
 
