@@ -4,7 +4,6 @@
 #### **1. Core Insight (Top of Pyramid)**  
 **BNPL has replaced layaway** as the preferred flexible payment option, driving **20-50% higher conversion rates** and **30-50% larger basket sizes** for retailers while attracting younger demographics.  
 
----
 
 #### **2. Market Shift & Adoption Drivers (Middle Layer)**  
 **A. Retailer Benefits**  
@@ -23,7 +22,6 @@
 - Projected **28% CAGR** (2021-2023) to reach **$166B** (FIS Worldpay).  
 - Currently **<2% of North American sales** – significant upside.  
 
----
 
 #### **3. Strategic Recommendations for Retailers**  
 1. **Prioritize High-Impact Verticals**:  
@@ -40,13 +38,11 @@
 - Monitor **delinquency rates** (despite 93% repeat usage at Afterpay).  
 - Avoid over-reliance: BNPL is “credit of a different sort” (Coresight).  
 
----
 
 #### **4. Attachments**  
 - [FIS Worldpay BNPL Forecast](https://worldpay.globalpaymentsreport.com)  
 - [Rue21 Klarna Case Study](https://www.klarna.com)  
 
----  
 *This structure delivers the key takeaway first, supports with layered evidence, and closes with actionable steps.* Would you like to benchmark BNPL providers for Everqlo’s specific product categories?  
 
 **Key Stat**: BNPL users spend **30-50% more per transaction** – a potential $15M+ revenue lift for a $50M retailer.
