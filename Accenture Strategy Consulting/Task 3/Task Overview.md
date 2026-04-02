@@ -10,7 +10,6 @@
 | **6. Order Confirmation** | Receives email with: <br>- Order summary <br>- Shipping details | For BNPL adds: <br>- Installment schedule <br>- Link to BNPL account management |
 | **7. Post-Purchase** | - Standard shipping updates <br>- Customer service for returns | Additional BNPL touchpoints: <br>- Payment reminders <br>- Option to pay early <br>- Seamless returns processed through BNPL provider |
 
----
 
 ### **Key BNPL Integration Points**:
 1. **Checkout Visibility**:  
@@ -22,7 +21,6 @@
 3. **Post-Purchase Communication**:  
    - Everqlo’s order confirmation email **includes BNPL terms** while BNPL provider handles payment reminders.
 
----
 
 ### **Visual Flow** (Simplified):
 ```plaintext
