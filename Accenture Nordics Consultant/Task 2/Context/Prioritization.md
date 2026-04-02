@@ -34,4 +34,3 @@ Map and analyze current process (1 week)
 
 Monitor UX change impact and adjust as required (2 weeks)
 
-
