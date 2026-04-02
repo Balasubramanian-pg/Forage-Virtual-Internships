@@ -69,4 +69,3 @@
 
 This drag-and-drop format tests understanding of how each role contributes to implementing BNPL while maintaining clear role boundaries. The activity reinforces that successful tech projects require both technical specialists (developers, QA) and user-focused roles (UX, research), all coordinated by leadership (Team Lead, Business Analyst). 
 
-
