@@ -13,7 +13,6 @@
 | 6. Back-end Developer  | F. Documents technical requirements for BNPL integration with existing systems |
 | 7. QA Engineer         | G. Implements the BNPL payment button and checkout page redesign |
 
----
 
 ### **Answer Key**:
 1. **Team Lead** → **E**  
@@ -37,7 +36,6 @@
 7. **QA Engineer** → **B**  
    *Tests scenarios like declined BNPL approvals or partial refunds.*  
 
----
 
 ### **Role-Specific BNPL Focus Areas**:
 - **Team Lead**: Manages stakeholder alignment (e.g., Legal for BNPL terms).  
