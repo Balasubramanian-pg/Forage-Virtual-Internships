@@ -6,7 +6,6 @@
 
 **Question:** How can Everqlo increase its profitability within the next 12-24 months by optimizing its multi-channel distribution strategy and improving its overall business performance?
 
----
 
 ### **Part 2: Profitability Value Tree for Everqlo**
 
@@ -56,7 +55,6 @@ Costs must be analyzed in relation to both fixed and variable expenses, with a f
 
 By breaking down profitability in this way, we can see exactly where Everqlo's problems lie. The decline in **Retail Store Revenue**, driven by a drop in **Footfall**, is a major issue. At the same time, the **Fixed Costs** associated with these stores remain high, eating into any profit generated elsewhere. While **E-commerce Revenue** may be growing, it's likely not enough to offset the losses from the physical stores. The analysis framework helps us to formulate specific initiatives, such as reducing fixed costs by renegotiating store leases, or increasing digital marketing spend to boost e-commerce traffic and conversion. The key is to find the right balance between these levers to drive overall profitability.
 
-***
 
 [Introduction to SCQ and Issue Trees](https://www.youtube.com/watch?v=b9MIQaO06P4) is a video that explains how to use the Situation-Complication-Question framework and profitability trees for business analysis.
 
